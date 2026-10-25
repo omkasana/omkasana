@@ -1,38 +1,51 @@
 
-<!--
-  GitHub Profile README
-  Replace YOUR_USERNAME and the project links.
--->
+<!-- =========================================================
+     OM KASANA — GITHUB PROFILE README
+     Replace repository placeholders and screenshot URLs.
+========================================================== -->
+
+<!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:111827,100:1e293b&height=180&section=header&text=OM%20KASANA&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20-%20CLOUD%20AND%20DEVOPS&descAlignY=65&descSize=13"
-    width="100%"
-    alt="Om Kasana - Full Stack Developer"
-  />
-</div>
-
-
-
+<img
+  src="https://capsule-render.vercel.app/api?type=wave&color=0:0f172a,100:1e293b&height=200&section=header&text=OM%20KASANA&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20AND%20CLOUD%20DEVOPS&descAlignY=65&descSize=13"
+  width="100%"
+  alt="Om Kasana — Full Stack Developer"
+/>
 <br />
 
 ### Building applications. Engineering systems. Automating workflows.
 
-Full Stack Developer focused on modern web applications, cloud infrastructure,
-and reliable production workflows.
+Full Stack Developer focused on modern web applications, cloud infrastructure, and reliable production workflows.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<br />
+
+<a href="https://github.com/omkasana">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/om-kasana">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/omkasana_/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+<!-- ===================== ABOUT ===================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1e293b&height=65&section=header&text=ABOUT%20ME&fontSize=24&fontColor=94a3b8"
+  width="100%"
+  alt="About Me"
+/>
+
+</div>
 
 I'm a Full Stack Developer passionate about building modern, scalable, and maintainable applications.
 
@@ -49,135 +62,157 @@ I enjoy working on complex applications, dynamic systems, and production-ready s
 
 ---
 
-## Tech Stack
+<!-- ===================== WHAT I DO ===================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1e293b&height=65&section=header&text=WHAT%20I%20DO&fontSize=24&fontColor=94a3b8"
+  width="100%"
+  alt="What I Do"
+/>
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="33%" valign="top">
+
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,tailwind"
+  height="48"
+  alt="Frontend technologies"
+/>
+
+### Web Engineering
+
+Building modern, responsive, and scalable applications with React, Next.js, and modern UI technologies.
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<img
+  src="https://skillicons.dev/icons?i=aws,linux,gitlab"
+  height="48"
+  alt="Cloud and DevOps technologies"
+/>
+
+### Cloud & DevOps
+
+AWS infrastructure, CI/CD pipelines, automated deployments, and production workflows.
+
+</td>
+
+<td align="center" width="33%" valign="top">
+
+<img
+  src="https://skillicons.dev/icons?i=nodejs,nestjs,mongodb"
+  height="48"
+  alt="Backend technologies"
+/>
+
+### Backend Systems
+
+REST APIs, dynamic modules, database-driven applications, and backend architecture.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1e293b&height=65&section=header&text=TECH%20STACK&fontSize=24&fontColor=94a3b8"
+  width="100%"
+  alt="Tech Stack"
+/>
+
+</div>
 
 <div align="center">
 
 ### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" alt="Frontend technologies" />
+<img
+  src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind"
+  alt="React, Next.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS"
+/>
 
 <br />
 
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" />
-<img src="https://img.shields.io/badge/Lucide-111827?style=for-the-badge&logo=lucide&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+<img src="https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI" />
+<img src="https://img.shields.io/badge/Lucide-111827?style=for-the-badge&logo=lucide&logoColor=white" alt="Lucide" />
+
+<br />
+<br />
 
 ### Backend Development
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb" alt="Backend technologies" />
+<img
+  src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb"
+  alt="Node.js, NestJS, Express.js, MongoDB"
+/>
 
 <br />
 
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+
+<br />
+<br />
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,linux,nginx,docker,git,github,gitlab" alt="Cloud and DevOps technologies" />
+<img
+  src="https://skillicons.dev/icons?i=aws,linux,nginx,docker,git,github,gitlab"
+  alt="AWS, Linux, Nginx, Docker, Git, GitHub, GitLab"
+/>
 
 <br />
 
-<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-<img src="https://img.shields.io/badge/CI%2FCD-Automation-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
+<img src="https://img.shields.io/badge/CI%2FCD-Automation-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="CI/CD" />
+
+<br />
+<br />
 
 ### Mobile & Game Development
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,godot" alt="Mobile and game development technologies" />
+<img
+  src="https://skillicons.dev/icons?i=flutter,dart,godot"
+  alt="Flutter, Dart, Godot"
+/>
 
 </div>
 
 ---
 
-## Featured Projects
+<!-- ===================== CLOUD & DEVOPS ===================== -->
 
-A selection of applications and digital products I've built across different domains.
+<div align="center">
 
-### Full Stack Applications
 
-<table>
-<tr>
-<td width="50%" valign="top">
 
-### DevBoard
-
-A dynamic CRM and ERP-style platform with configurable modules, record management, dashboards, and workflow capabilities.
-
-**Tech:** Next.js · TypeScript · Node.js · MongoDB
-
-[Repository](YOUR_DEVBOARD_REPOSITORY_URL)
-
-</td>
-<td width="50%" valign="top">
-
-### ReachQuill
-
-A lead generation and outreach platform designed to discover lead sources and automate email outreach workflows.
-
-**Tech:** Next.js · Node.js · MongoDB
-
-[Repository](YOUR_REACHQUILL_REPOSITORY_URL)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Developer Project Management
-
-A project management dashboard built for developers to organize projects, manage workflows, and collaborate with clients.
-
-**Tech:** Next.js · Node.js · MongoDB
-
-[Repository](YOUR_PROJECT_MANAGEMENT_REPOSITORY_URL)
-
-</td>
-<td width="50%" valign="top">
-
-### Business & Marketing Websites
-
-Developed websites for businesses across multiple industries, including real estate, construction, manufacturing, outdoor marketing, and corporate services.
-
-**Focus:** Responsive UI · Performance · Modern Web Design
-
-</td>
-</tr>
-</table>
-
-### Mobile & Game Development
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Music Application
-
-A mobile music application built with Flutter, focused on delivering a modern mobile experience.
-
-**Tech:** Flutter · Dart
-
-[Repository](YOUR_MUSIC_APP_REPOSITORY_URL)
-
-</td>
-<td width="50%" valign="top">
-
-### Arrow Game
-
-A game built using the Godot game engine, exploring game mechanics and interactive gameplay.
-
-**Tech:** Godot · GDScript
-
-[Repository](YOUR_ARROW_GAME_REPOSITORY_URL)
-
-</td>
-</tr>
-</table>
-
----
-
-## Cloud & DevOps
+</div>
 
 Beyond application development, I work with cloud infrastructure and deployment workflows.
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=aws,linux,nginx,gitlab"
+  alt="AWS, Linux, Nginx, GitLab"
+/>
+
+</div>
 
 - **Cloud Infrastructure:** AWS services, EC2 instances, Linux server administration
 - **Web Server & Reverse Proxy:** Nginx
@@ -187,9 +222,32 @@ Beyond application development, I work with cloud infrastructure and deployment 
 
 My focus is on building applications that are not only functional but also deployable, maintainable, and reliable in production environments.
 
----
 
-## What I'm Exploring
+
+</div>
+
+
+
+<!-- ===================== WHAT I'M EXPLORING ===================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1e293b&height=65&section=header&text=WHAT%20I'M%20EXPLORING&fontSize=24&fontColor=94a3b8"
+  width="100%"
+  alt="What I'm Exploring"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=aws,nextjs,nodejs,docker,gitlab"
+  alt="Technologies"
+/>
+
+</div>
 
 - Scalable SaaS architecture
 - Cloud infrastructure and AWS services
@@ -201,18 +259,30 @@ My focus is on building applications that are not only functional but also deplo
 
 
 
+
+
+<!-- ===================== CONNECT ===================== -->
+
 <div align="center">
 
-### Let's Connect
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:1e293b&height=65&section=header&text=LET'S%20CONNECT&fontSize=24&fontColor=94a3b8"
+  width="100%"
+  alt="Let's Connect"
+/>
 
-Interested in building something meaningful?
+<br />
+
+### Interested in building something meaningful?
+
+I'm always open to interesting projects, collaboration, and connecting with fellow developers.
 
 <br />
 
 <a href="https://github.com/omkasana">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="www.linkedin.com/in/om-kasana">
+<a href="https://www.linkedin.com/in/om-kasana">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/omkasana_/">
@@ -223,5 +293,17 @@ Interested in building something meaningful?
 <br />
 
 <sub>Build · Deploy · Improve</sub>
+
+</div>
+
+<!-- ===================== FOOTER ===================== -->
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=wave&color=0:1e293b,100:0f172a&height=100&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
