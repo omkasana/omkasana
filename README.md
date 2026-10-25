@@ -199,19 +199,27 @@ My focus is on building applications that are not only functional but also deplo
 
 ---
 
+
+
 <div align="center">
 
 ### Let's Connect
 
 Interested in building something meaningful?
 
-I'm always open to interesting projects, collaboration, and connecting with fellow developers.
-
 <br />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/omkasana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/om-kasana/))
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="YOUR_INSTAGRAM_URL">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 
+<br />
 <br />
 
 <sub>Build · Deploy · Improve</sub>
