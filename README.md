@@ -9,7 +9,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=wave&color=0:111827,100:1e293b&height=180&section=header&text=OM&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20-%20CLOUD%20AND%20DEVOPS&descAlignY=65&descSize=13"
+    src="https://capsule-render.vercel.app/api?type=wave&color=0:111827,100:1e293b&height=180&section=header&text=OM Kasana&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20-%20CLOUD%20AND%20DEVOPS&descAlignY=65&descSize=13"
     width="100%"
     alt="Om - Full Stack Developer"
   />
